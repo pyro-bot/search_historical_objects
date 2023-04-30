@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+torch = "*"
+torchvision = "*"
+scipy = "*"
+numpy = "*"
+matplotlib = "*"
+pandas = "*"
+click = "*"
+xmltodict = "*"
+opencv-python = "*"
+tqdm = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"

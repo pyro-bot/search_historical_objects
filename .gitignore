@@ -1,0 +1,9 @@
+.venv
+venv
+__cache__
+*.pyc
+*_skip*
+*.skip*
+datasets
+vscode
+.vscode
